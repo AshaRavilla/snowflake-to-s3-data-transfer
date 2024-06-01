@@ -1,0 +1,12 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore JAR files
+*.jar
+
+# Ignore data files
+data/*.csv
+
+# Ignore other system files
+.DS_Store
